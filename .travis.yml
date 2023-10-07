@@ -1,2 +1,2 @@
-language: csharp
-solution: DNSAdmin-DLL.sln
+language: cpp
+os: windows
